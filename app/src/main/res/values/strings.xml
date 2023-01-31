@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Meu mestre mandou</string>
+    <string name="new_order">Nova ordem</string>
+    <string name="order">Ordem</string>
+    <string name="all_orders">Todas as ordens</string>
+    <string name="colors_orders">Ordens com cores</string>
+    <string name="music_orders">Ordens com músicas</string>
+    <string name="lets_begin">Vamos começar</string>
+    <string name="your_name">Qual o seu nome?</string>
+    <string name="save">Salvar</string>
+
+    <string name="validation_mandatory_name">Informe seu nome</string>
+</resources>
